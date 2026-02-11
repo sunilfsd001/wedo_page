@@ -1,6 +1,9 @@
 /* html{
     scroll-snap-type: none;
 } */
+ nav{
+    box-shadow: 0px 5px 10px black;
+ }
 .formbody{  
     height:100vh;
     display: flex;
